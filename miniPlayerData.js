@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
     "thanksForWatchingWording": "Thanks for watching!",
-    "resumePlaybackWording": "Resume playback?",
+    "analyticsKey": "",
+    "downloadAppWording": "Download App",
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
-    "title": "Visioni Future - YT",
-    "thumbnail": "Medias/Thumbnails/yt_logo_rgb_dark.png.png",
+    "title": "Visioni Future - Youtube",
+    "thumbnail": "Player/css/editor/img/mini-player.jpg",
     "noWording": "No",
-    "analyticsKey": "",
-    "launchAppWording": "Then Launch Project",
-    "downloadAppWording": "Download App",
-    "url": "",
+    "resumePlaybackWording": "Resume playback?",
     "redirectToMobileApp": "auto",
+    "launchAppWording": "Then Launch Project",
+    "url": "",
     "description": "YouTube"
 }
